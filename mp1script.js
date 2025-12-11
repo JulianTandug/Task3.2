@@ -7,3 +7,5 @@ if (str1.includes('@'))  {
     document.getElementByid("txtResult").textContent = "invalid";
 
 }
+
+};
